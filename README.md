@@ -1,3 +1,3 @@
 # Loggr
 
-A description of this package.
+A simple logging solution for your iOS projects.
