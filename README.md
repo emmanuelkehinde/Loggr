@@ -6,7 +6,7 @@ A simple logging solution for your iOS projects.
 
 ### Installation
 
-Here is how to integrate the library in your iOS project.
+Here is how to integrate the library into your iOS project.
 
 #### Swift Package Manager
 
